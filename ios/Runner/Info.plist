@@ -40,8 +40,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 	<key>NSFaceIDUsageDescription</key>
     <string>Biometric authentication for accessing secrets</string>
-	<false/>
 </dict>
 </plist>
